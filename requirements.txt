@@ -1,0 +1,11 @@
+pytube
+yt-dlp
+ffmpeg-python
+youtube-transcript-api
+google-generativeai
+flask
+flask-cors
+python-dotenv
+numpy
+pillow
+opencv-python
